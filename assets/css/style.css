@@ -646,3 +646,46 @@ ol ol { margin: 1.5rem;}
     background-color:#FFC !important;
     font-style: italic;
 }
+
+* Table zebra style... */
+table.zebra {
+        font-size:inherit;
+        font:90%;
+        margin:1em;
+}
+
+table.zebra td {
+        padding-left: 0.3em;
+}
+
+table.zebra td ol, table.zebra td ul {
+    padding-left: 1em;
+}
+
+table.zebra td p.session-title {
+    font-weight: bold;
+    text-align: center;
+}
+
+table.zebra th {
+        font-weight: bold;
+        text-align: center;
+        font-size: 100%;
+        background: hsl(180, 30%, 50%);
+        color: #fff;
+}
+
+table.zebra th a:link {
+  color: #fff;
+}
+
+table.zebra th a:visited {
+  color: #aaa;
+}
+
+table.zebra tr:nth-child(even) {
+        background-color: hsl(180, 30%, 93%)
+}
+
+table.zebra th{border-bottom:1px solid #bbb;padding:.2em 1em;}
+table.zebra td{border-bottom:1px solid #ddd;padding:.2em 1em;}
