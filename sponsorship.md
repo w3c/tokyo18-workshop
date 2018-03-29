@@ -2,12 +2,12 @@
 layout: home
 ---
 
-# Sponsoring the W3C Workshop on Mangas and Cartoons
+# Sponsoring the W3C Workshop on Manga, Comics, and Fixed Layout Publications
 
 (Some general text on the Workshop T.B.D.)
 {: .todo}
 
-For more details on the workshop, see the [W3C Workshop on Mangas and Cartoons Home page](index.html).
+For more details on the workshop, see the [W3C Workshop on Manga, Comics, and Fixed Layout Publications](index.html).
 
 ## Why Sponsor This Workshop?
 

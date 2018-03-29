@@ -1,2 +1,2 @@
-# W3C Workshop on Mangas and Cartoons in Digital Publishing
-Web site of the Workshop on Mangas and Cartoons, held in Tokyo in September '18
+# W3C Workshop on Manga, Comics, and Fixed Layout Publications
+Web site of the W3C Workshop on Manga, Comics, and Fixed Layout Publications, held in Tokyo in September '18
