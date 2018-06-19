@@ -48,19 +48,22 @@ Suggestions for further workshop topics? Submit a [pull request on GitHub](https
 
 Attendance is free for all invited participants and is open to the public, whether or not W3C members.
 
-If you wish to express interest in attending, please fill out the registration form (<span class="todo">WBS to be done</span>. We want to fill the room with people with practical experience of both Web and VR technologies.
+If you wish to express interest in attending, please fill out the request to participate form (<span class="todo">WBS to be done</span>. We want to fill the room with people with practical experience of both Web and VR technologies.
 
-Because the venue can accommodate unfortunately only 100 attendees, you must receive an acceptance email in order to attend. Also, be sure to keep an eye on [these important dates](#dates).
+Because the venue can accommodate unfortunately only 90 attendees, you must receive an acceptance email in order to attend. Also, be sure to keep an eye on [these important dates](#dates).
 
-As an alternative to the registration form, you are encouraged to submit a presentation topic in the form of a [position statement](#position-statements).
+In addition to the request to participate form, you are encouraged to submit a presentation topic in the form of a [position statement](#position-statements).
 
 Our aim is to get a diversity of attendees from a variety of industries and communities, including:
 
-> <span class="todo">A list of communities should appear here, e.g.,</span>
-> * Manga/cartoon content producers
-> * Reading systems
-> * Authoring tool providers
-> * <span class="todo">etc.</span>
+* Publishers from multiple segments (manga/comics, magazines, trade ebooks, learning content, etc.)
+* Authoring tool developers
+* Browser developers
+* Web Standards experts
+* Web developers
+* Developers of commercial and open source publishing technology middleware and services
+* Other SDOs involved in related standard setting
+
 
 
 This workshop, as other W3C meetings, operates under its [Code of Ethics and Professional Conduct](https://www.w3.org/Consortium/cepc/).
@@ -85,7 +88,7 @@ A good position statement should be a few paragraphs long and should include:
 
 ## Location
 
-The W3C Workshop will located at <span class="todo">T.B.D.</span>
+The W3C Workshop will located in Central Tokyo at the historic Mita Campus of Keio University.
 
 ### Venue
 {: .no_toc}
@@ -96,15 +99,21 @@ Venue details
 ## Program Committee
 
 ### Chairs
-{: .no_toc}
 
-* Bill McCoy (W3C)
-* T.B.D.
+* Luc Audrain (Hachette Livre)
+* Makoto Murata, Ph.D. (Keio APL and JEPA)
+* Florian Rivoal (CSS Working Group Invited Expert and Member of W3C Advisory Board)
 
-### Committee Members
-{: .no_toc}
 
-* T.B.D.
+### Program Committee Members
+
+* Shinya Takami, Ph.D. (BOOK WALKER)
+* Junko Kamata Voyager Japan INVITED
+* Ivan Herman, Ph.D.  (W3C/CWI)
+* Aferdita Muriqi INVITED or Laurent Le Meur (EDRLab)
+* Richard Ishida (W3C)
+* Samuel Petit (ActiaLuna)
+* Misako Nomura, DAISY INVITED
 
 ## What is W3C?
 
