@@ -116,4 +116,4 @@ Venue details
 
 ## What is W3C?
 
-W3C is a voluntary standards consortium that convenes companies and communities to help structure productive discussions around existing and emerging technologies, and offers a Royalty-Free patent framework for Web Recommendations. We focus primarily on client-side (browser) technologies, and also have a mature history of vocabulary (or “ontology”) development. W3C develops work based on the priorities of our members and our community.
+The [World Wide Web Consortium (W3C)](https://www.w3.org) is a voluntary standards consortium that convenes companies and communities to help structure productive discussions around existing and emerging technologies, and offers a Royalty-Free patent framework for Web Recommendations. We focus primarily on client-side (browser) technologies, and also have a mature history of vocabulary (or “ontology”) development. W3C develops work based on the priorities of our members and our community.
