@@ -48,7 +48,7 @@ Suggestions for further workshop topics? Submit a [pull request on GitHub](https
 
 Attendance is free for all invited participants and is open to the public, whether or not W3C members.
 
-If you wish to express interest in attending, please fill out the request to participate form (<span class="todo">WBS to be done</span>. We want to fill the room with people with practical experience of both Web and VR technologies.
+If you wish to express interest in attending, please fill out the [Expression of Interest Form](https://www.w3.org/2002/09/wbs/1/2018publayoutws/). We want to fill the room with people with practical experience of both Web and VR technologies.
 
 Because the venue can accommodate unfortunately only 90 attendees, you must receive an acceptance email in order to attend. Also, be sure to keep an eye on [these important dates](#dates).
 
@@ -101,18 +101,18 @@ Venue details
 
 * Luc Audrain (Hachette Livre)
 * Makoto Murata, Ph.D. (Keio APL and JEPA)
-* Florian Rivoal (CSS Working Group Invited Expert and Member of W3C Advisory Board)
+* Florian Rivoal (CSS Working Group Invited Expert)
 
 ### Program Committee Members
 {: .no_toc}
 
 * Shinya Takami, Ph.D. (BOOK WALKER)
-* Junko Kamata Voyager Japan INVITED
-* Ivan Herman  (W3C/CWI)
-* Aferdita Muriqi (INVITED) or Laurent Le Meur (EDRLab)
+* Junko Kamata (Voyager Japan) INVITED
+* Ivan Herman, Ph.D.  (W3C/CWI)
+* Aferdita Muriqi (EDRLab)
 * Richard Ishida (W3C)
 * Samuel Petit (ActiaLuna)
-* Misako Nomura, DAISY Consortium (INVITED)
+* Misako Nomura (DAISY) INVITED
 
 ## What is W3C?
 
