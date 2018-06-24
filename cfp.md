@@ -64,8 +64,6 @@ Our aim is to get a diversity of attendees from a variety of industries and comm
 * Developers of commercial and open source publishing technology middleware and services
 * Other SDOs involved in related standard setting
 
-
-
 This workshop, as other W3C meetings, operates under its [Code of Ethics and Professional Conduct](https://www.w3.org/Consortium/cepc/).
 
 ## How can I suggest a presentation?
@@ -88,7 +86,7 @@ A good position statement should be a few paragraphs long and should include:
 
 ## Location
 
-The W3C Workshop will located in Central Tokyo at the historic Mita Campus of Keio University.
+The W3C Workshop will located in Central Tokyo at the historic [Mita Campus of Keio University](https://www.keio.ac.jp/en/maps/mita.html).
 
 ### Venue
 {: .no_toc}
@@ -99,13 +97,14 @@ Venue details
 ## Program Committee
 
 ### Chairs
+{: .no_toc}
 
 * Luc Audrain (Hachette Livre)
 * Makoto Murata, Ph.D. (Keio APL and JEPA)
 * Florian Rivoal (CSS Working Group Invited Expert)
 
-
 ### Program Committee Members
+{: .no_toc}
 
 * Shinya Takami, Ph.D. (BOOK WALKER)
 * Junko Kamata (Voyager Japan) INVITED
@@ -117,4 +116,4 @@ Venue details
 
 ## What is W3C?
 
-W3C is a voluntary standards consortium that convenes companies and communities to help structure productive discussions around existing and emerging technologies, and offers a Royalty-Free patent framework for Web Recommendations. We focus primarily on client-side (browser) technologies, and also have a mature history of vocabulary (or “ontology”) development. W3C develops work based on the priorities of our members and our community.
+The [World Wide Web Consortium (W3C)](https://www.w3.org) is a voluntary standards consortium that convenes companies and communities to help structure productive discussions around existing and emerging technologies, and offers a Royalty-Free patent framework for Web Recommendations. We focus primarily on client-side (browser) technologies, and also have a mature history of vocabulary (or “ontology”) development. W3C develops work based on the priorities of our members and our community.
