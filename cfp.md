@@ -48,7 +48,7 @@ Suggestions for further workshop topics? Submit a [pull request on GitHub](https
 
 Attendance is free for all invited participants and is open to the public, whether or not W3C members.
 
-If you wish to express interest in attending, please fill out the [Expression of Interest Form](https://www.w3.org/2002/09/wbs/1/2018publayoutws/). We want to fill the room with people with practical experience of both Web and VR technologies.
+If you wish to express interest in attending, please fill out the [Expression of Interest Form](https://www.w3.org/2002/09/wbs/1/2018publayoutws/). We want to fill the room with people with practical experience.
 
 Because the venue can accommodate unfortunately only 90 attendees, you must receive an acceptance email in order to attend. Also, be sure to keep an eye on [these important dates](#dates).
 
