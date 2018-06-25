@@ -46,15 +46,11 @@ Suggestions for further workshop topics? Submit a [pull request on GitHub](https
 
 ## How can I attend?
 
-Attendance is free for all invited participants and is open to the public, whether or not W3C members.
+Attendance is free for all invited participants and is open to the public, whether or not W3C members, who have received an acceptance email in order to attend.
 
-If you wish to express interest in attending, please fill out the [Expression of Interest Form](https://www.w3.org/2002/09/wbs/1/2018publayoutws/). We want to fill the room with people with practical experience.
+Because space is limited to 90 attendees, please fill out the [Expression of Interest Form](https://www.w3.org/2002/09/wbs/1/2018publayoutws/) if you wish to express interest in attending.  In addition, you are encouraged to submit a presentation topic in the form of a [position statement](#position-statements).
 
-Because the venue can accommodate unfortunately only 90 attendees, you must receive an acceptance email in order to attend. Also, be sure to keep an eye on [these important dates](#dates).
-
-In addition to the request to participate form, you are encouraged to submit a presentation topic in the form of a [position statement](#position-statements).
-
-Our aim is to get a diversity of attendees from a variety of industries and communities, including:
+Our aim is to fill the room with people with practical experience and get a diversity of attendees from a variety of industries and communities, including:
 
 * Publishers from multiple segments (manga/comics, magazines, trade ebooks, learning content, etc.)
 * Authoring tool developers
@@ -64,7 +60,9 @@ Our aim is to get a diversity of attendees from a variety of industries and comm
 * Developers of commercial and open source publishing technology middleware and services
 * Other SDOs involved in related standard setting
 
-This workshop, as other W3C meetings, operates under its [Code of Ethics and Professional Conduct](https://www.w3.org/Consortium/cepc/).
+This workshop, as other W3C meetings, operates under the [W3C Code of Ethics and Professional Conduct](https://www.w3.org/Consortium/cepc/).
+
+Also, be sure to keep an eye on [these important dates](#dates).
 
 ## How can I suggest a presentation?
 {: #position-statements}
