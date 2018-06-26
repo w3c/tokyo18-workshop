@@ -54,4 +54,4 @@ The deadline for becoming a sponsor to have the name/logo of the sponsor recogni
 * Silver sponsors are listed as additional sponsors of the workshop.
 * The sponsor name is listed on all on-site signage and printed materials.
 
-If you're interested in being a sponsor of the W3C Workshop on Digital Publication Layout and Presentation, please contact Naomi Yoshizawa <naomi@w3.org> or Alan Bird at <abird@w3.org>.
+If you're interested in being a sponsor of the W3C Workshop on Digital Publication Layout and Presentation, please contact Naomi Yoshizawa at <naomi@w3.org> or Alan Bird at <abird@w3.org>.
