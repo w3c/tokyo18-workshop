@@ -2,12 +2,11 @@
 layout: home
 ---
 
-# Sponsoring the W3C Workshop on Manga, Comics, and Fixed Layout Publications
+# Sponsoring the W3C Workshop on Digital Publication Layout and Presentation (from Manga to Magazines)
 
-(Some general text on the Workshop T.B.D.)
-{: .todo}
+This workshop is intended to bring together experts to evaluate the current status and explore future directions of visually-rich long-form digital publications based on Web Technologies (particularly CSS, the formatting language of the Web), encompassing both fixed and dynamic layouts.  Such “high-design” publications, with complex or sophisticated layout, may be sequential art (Comics, Manga, Bandes Dessinées, etc.), magazines, picture books, cookbooks, educational materials, etc.
 
-For more details on the workshop, see the [W3C Workshop on Manga, Comics, and Fixed Layout Publications](index.html).
+For more details on the workshop, see the [Workshop on Digital Publication Layout and Presentation (from Manga to Magazines)](index.html).
 
 ## Why Sponsor This Workshop?
 
@@ -34,22 +33,8 @@ All sponsorships offer the following considerations:
 * One guest pass to observe Workshop
 * Sponsor mention in press releases or media advisories
 
-The deadline for becoming a sponsor are:
+The deadline for becoming a sponsor to have the name/logo of the sponsor recognized on the signage at the workshop is August 10, 2018.
 
-* Sponsor identity on Workshop communications including:
-    * Call for Participation and Summary Report
-    * On-site signage and printed materials
-    * Any commemorative item produced (e.g., T-shirt)
-* One guest pass to observe Workshop
-* Sponsor mention in press releases or media advisories
-
-The deadline for becoming a sponsor are:
-
-* <span class="todo">Datum to be set</span> to have the name/logo of the sponsor recognized on the signage at the workshop
-* <span class="todo">Datum to be set</span> to sponsor the workshop without name/logo on the signage, but with the other benefits included
-
-_The sponsorship values have been translated to Yens, somebody has the check this!!_
-{: .todo}
 
 ### Platinum Sponsorship: ¥750,000 (¥1,000,000 for non-Members)
 {: #platinum}
@@ -64,7 +49,9 @@ _The sponsorship values have been translated to Yens, somebody has the check thi
 * The sponsor name and logo are included on all on-site signage and printed materials.
 
 ### Silver Sponsorship: ¥300,000 (¥400,000 for non-Members)
-{: #gold}
+{: #silver}
 
 * Silver sponsors are listed as additional sponsors of the workshop.
 * The sponsor name is listed on all on-site signage and printed materials.
+
+If you're interested in being a sponsor of the W3C Workshop on Digital Publication Layout and Presentation, please contact Naomi Yoshizawa <naomi@w3.org> or Alan Bird at <abird@w3.org>.

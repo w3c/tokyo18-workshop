@@ -33,7 +33,7 @@ The tentative list of topics is as follows:
 * Accessibility for high-design digital publications
 * Innovative and interactive high-design digital publications
 * Use of interactive features (e.g., scroll snap) of CSS for sequential art
-Programmatic (JavaScript) vs. declarative (HTML/CSS, SVG) representations
+* Programmatic (JavaScript) vs. declarative (HTML/CSS, SVG) representations
 * Lessons learned from  IDPF efforts on advanced hybrid layout and page templates
 * Machine Learning (ML) and Artificial Intelligence (AI) techniques as applied to content production (such as inferring CSS layouts from images) and accessibility (such as inferring reading order and other accessibility characteristics)
 * Internationalization of high-design digital publications
