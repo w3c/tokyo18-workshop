@@ -48,7 +48,7 @@ Suggestions for further workshop topics? Submit a [pull request on GitHub](https
 
 Attendance is free for all invited participants and is open to the public, whether or not W3C members, who have received an acceptance email in order to attend.
 
-Because space is limited to 90 attendees, please fill out the [Expression of Interest Form](https://www.w3.org/2002/09/wbs/1/2018publayoutws/) if you wish to express interest in attending.  In addition, you are encouraged to submit a presentation topic in the form of a [position statement](#position-statements).
+Because space is limited to 90 attendees, please fill out the [Expression of Interest Form](https://www.w3.org/2002/09/wbs/1/2018publayoutws/).  In addition, you are encouraged to submit a presentation topic in the form of a [position statement](#position-statements).
 
 Our aim is to fill the room with people with practical experience and get a diversity of attendees from a variety of industries and communities, including:
 
