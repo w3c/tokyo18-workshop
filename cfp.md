@@ -105,12 +105,12 @@ Venue details
 {: .no_toc}
 
 * Shinya Takami, Ph.D. (BOOK WALKER)
-* Junko Kamata (Voyager Japan) INVITED
+* Junko Kamata (Voyager Japan) 
 * Ivan Herman, Ph.D.  (W3C/CWI)
 * Aferdita Muriqi (EDRLab)
 * Richard Ishida (W3C)
 * Samuel Petit (ActiaLuna)
-* Misako Nomura (DAISY) INVITED
+* Misako Nomura (DAISY) 
 
 ## What is W3C?
 
