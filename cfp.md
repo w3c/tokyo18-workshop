@@ -71,7 +71,7 @@ This is a workshop, not a conference, and any presentations will be short, with 
 
 In order to best facilitate informed discussion, we encourage attendees to read the accepted topics prior to attending the workshop.
 
-If you wish to present on a topic, you should submit a position statement (<span class="todo">WBS to be set up</span>) by the deadline (see [important dates](#dates)). Our program committee will review the input provided, and select the most relevant topics and perspectives.
+If you wish to present on a topic, you should submit a position statement by email to [`group-publayout-ws-pc@w3.org`](mailto:group-publayout-ws-pc@w3.org) by the deadline (see [important dates](#dates)). Our program committee will review the input provided, and select the most relevant topics and perspectives.
 
 A good position statement should be a few paragraphs long and should include:
 
@@ -80,7 +80,7 @@ A good position statement should be a few paragraphs long and should include:
 * Links to related supporting resources.
 * Any other topics you think the workshop should cover in order to be effective.
 * A focus on technical issues, not process or platform preference. We plan to talk about the what, not the how.
-* Position statements must be in English, preferably in HTML or plain-text format. You may include multiple topics, but we ask that each person submit only a single coherent position statement. The input provided at registration time (e.g., bio, goals, interests) will be published and linked to from this workshop page.
+* Position statements must be in English, preferably in an HTML attachment, or plain-text format. You may include multiple topics, but we ask that each person submit only a single coherent position statement. The input provided at registration time (e.g., bio, goals, interests) will be published and linked to from this workshop page.
 
 ## Location
 
