@@ -71,7 +71,7 @@ This is a workshop, not a conference, and any presentations will be short, with 
 
 In order to best facilitate informed discussion, we encourage attendees to read the accepted topics prior to attending the workshop.
 
-If you wish to present on a topic, you should submit a position statement by email to [`group-publayout-ws-pc@w3.org`](mailto:group-publayout-ws-pc@w3.org) by the deadline (see [important dates](#dates)). Our program committee will review the input provided, and select the most relevant topics and perspectives.
+If you wish to present on a topic, you should submit a position statement by email to [group-publayout-ws-pc@w3.org](mailto:group-publayout-ws-pc@w3.org) by the deadline (see [important dates](#dates)). Our program committee will review the input provided, and select the most relevant topics and perspectives.
 
 A good position statement should be a few paragraphs long and should include:
 
