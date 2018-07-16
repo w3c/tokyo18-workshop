@@ -14,7 +14,7 @@ I would like attendees to gain an appreciation for how CSS has developed in term
 * My personal site is at: [https://rachelandrew.co.uk/](https://rachelandrew.co.uk/)
 * My site of CSS Grid information is at [https://gridbyexample.com](https://gridbyexample.com)
 
-Please note that as an Invited Expert to the CSS WG I am self-funded and would need some help towards my costs. Due to a prior commitment I won’t be able to fly out from Berlin until Monday morning, which would mean that speaking on day 1 might be tricky if I had any flight delays so I would prefer to speak day 2.
+Due to a prior commitment I won’t be able to fly out from Berlin until Monday morning, which would mean that speaking on day 1 might be tricky if I had any flight delays so I would prefer to speak day 2.
 
 
  
