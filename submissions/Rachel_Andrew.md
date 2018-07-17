@@ -17,4 +17,10 @@ I would like attendees to gain an appreciation for how CSS has developed in term
 Due to a prior commitment I won’t be able to fly out from Berlin until Monday morning, which would mean that speaking on day 1 might be tricky if I had any flight delays so I would prefer to speak day 2.
 
 
+Rachel Andrew
+
+https://rachelandrew.co.uk   
+https://twitter.com/rachelandrew
+
+
  

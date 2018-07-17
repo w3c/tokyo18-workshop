@@ -26,3 +26,5 @@ Here are some previous talks I've given:
 	* video  [https://vimeo.com/134597090](https://vimeo.com/134597090)
 
 
+
+-fantasai
