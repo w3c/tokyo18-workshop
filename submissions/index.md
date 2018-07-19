@@ -1,8 +1,8 @@
 ---
-layout: home
+layout: submissions
 ---
 
-# Position papers
+# Position Statements
 
 1. [Rachel Andrew](Rachel_Andrew)
 2. [Rachel Nabors](Rachel_Nabors)

@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: submissions
 ---
 
 # Elika Etemad (Fantasai): Position Paper

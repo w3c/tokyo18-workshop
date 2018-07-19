@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: submissions
 ---
 
 # Rachel Andrew: Position Paper

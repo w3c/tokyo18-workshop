@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: submissions
 ---
 
 # Nat McCully: Position Paper

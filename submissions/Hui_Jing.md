@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: submissions
 ---
 
 # Hui Jing: Position Paper
