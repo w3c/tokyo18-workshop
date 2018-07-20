@@ -11,3 +11,4 @@ layout: submissions
 5. [Nat McCully](Nat_McCully), Adobe Systems, Inc.
 6. [Laurent Le Meur](edrlab), EDRLab
 7. [Shinya Takami](Shinya_Takami), Kadokawa Corporation
+8. [Vincent Wartelle](Vincent_Wartelle), ISI
