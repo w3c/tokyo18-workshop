@@ -12,3 +12,4 @@ layout: submissions
 6. [Laurent Le Meur](edrlab), EDRLab
 7. [Shinya Takami](Shinya_Takami), Kadokawa Corporation
 8. [Vincent Wartelle](Vincent_Wartelle), ISI
+9. [Richard Ishida](Richard_Ishida), W3C
