@@ -19,8 +19,8 @@ Due to a prior commitment I won’t be able to fly out from Berlin until Monday 
 
 Rachel Andrew
 
-https://rachelandrew.co.uk   
-https://twitter.com/rachelandrew
+[https://rachelandrew.co.uk](https://rachelandrew.co.uk)   
+[https://twitter.com/rachelandrew](https://twitter.com/rachelandrew)
 
 
  
