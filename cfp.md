@@ -110,7 +110,8 @@ Venue details
 * Aferdita Muriqi (EDRLab)
 * Richard Ishida (W3C)
 * Samuel Petit (ActiaLuna)
-* Misako Nomura (DAISY) 
+* Misako Nomura (Japanese Society for Rehabilitation of Persons with Disabilities)
+* Mayu (Hamada) Makio (Assistive Technology Development Organization)
 
 ## What is W3C?
 
