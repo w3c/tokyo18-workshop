@@ -14,3 +14,4 @@ layout: submissions
 8. [Vincent Wartelle](Vincent_Wartelle), ISI
 9. [Richard Ishida](Richard_Ishida), W3C
 10. [Bobby Tung](Bobby_Tung)
+11. [Pablo Defendini](Pablo_Defendini)
