@@ -15,3 +15,4 @@ layout: submissions
 9. [Richard Ishida](Richard_Ishida), W3C
 10. [Bobby Tung](Bobby_Tung)
 11. [Pablo Defendini](Pablo_Defendini)
+12. [Katshuhiro Ogata](Katshuhiro_Ogata), Denno Mavo LLC
