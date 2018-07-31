@@ -16,3 +16,4 @@ layout: submissions
 10. [Bobby Tung](Bobby_Tung)
 11. [Pablo Defendini](Pablo_Defendini)
 12. [Katshuhiro Ogata](Katshuhiro_Ogata), Denno Mavo LLC
+13. [Shinyu Murakami](Shinyu_Murakami), Vivliostyle
