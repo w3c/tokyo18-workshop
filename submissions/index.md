@@ -16,7 +16,7 @@ layout: submissions
 10. [Bobby Tung](Bobby_Tung)
 11. [Pablo Defendini](Pablo_Defendini)
 12. [Katshuhiro Ogata](Katshuhiro_Ogata), Denno Mavo LLC
-13. [Shinyu Murakami](Shinyu_Murakami), Vivliostyle
+13. [Shinyu Murakami](Shinyu_Murakami), Vivliostyle.org
 14. [Dave Cramer](Dave_Cramer), Hachette Book Group
 15. [Myles, C. Maxfield](Myles_Maxfield), Apple
 16. [Jean-Christophe Burie](jean_christophe_burie.md), Université de La Rochelle
