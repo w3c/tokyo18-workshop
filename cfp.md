@@ -89,8 +89,7 @@ The W3C Workshop will located in Central Tokyo at the historic [Mita Campus of K
 ### Venue
 {: .no_toc}
 
-Venue details
-{: .todo}
+See [separate page](venue)
 
 ## Program Committee
 
