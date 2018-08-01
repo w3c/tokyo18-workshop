@@ -17,3 +17,4 @@ layout: submissions
 11. [Pablo Defendini](Pablo_Defendini)
 12. [Katshuhiro Ogata](Katshuhiro_Ogata), Denno Mavo LLC
 13. [Shinyu Murakami](Shinyu_Murakami), Vivliostyle
+14. [Dave Cramer](Dave_Cramer), Hachette Book Group
