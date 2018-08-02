@@ -19,4 +19,5 @@ layout: submissions
 13. [Shinyu Murakami](Shinyu_Murakami), Vivliostyle.org
 14. [Dave Cramer](Dave_Cramer), Hachette Book Group
 15. [Myles, C. Maxfield](Myles_Maxfield), Apple
-16. [Jean-Christophe Burie](jean_christophe_burie.md), Université de La Rochelle
+16. [Jean-Christophe Burie](jean_christophe_burie), Université de La Rochelle
+17. [Satoko Takahashi](Satoko_Takahashi), Dai Nippon Printing Co.,Ltd.
