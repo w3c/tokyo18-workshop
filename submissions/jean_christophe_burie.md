@@ -6,7 +6,7 @@ layout: submissions
 
 ## Problematics
 
-The visually rich publications and especially the comics that will be discussed during the workshop are [oftenly]{.SpellE} poor semantically. This comes mainly from the legacy of the print chain industry where images are never described. The only data and metadata available being often those provided by the publishers which aim to feed the product page for the e-retailers.
+The visually rich publications and especially the comics that will be discussed during the workshop are often poor semantically. This comes mainly from the legacy of the print chain industry where images are never described. The only data and metadata available being often those provided by the publishers which aim to feed the product page for the e-retailers.
 
 This lack of semantics has several consequences
 
