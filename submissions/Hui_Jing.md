@@ -2,7 +2,7 @@
 layout: submissions
 ---
 
-# Hui Jing: Position Paper
+# Hui Jing Chen: Position Paper
 
 
 My name is Hui Jing and I have been experimenting and building demos as well as production sites with various modern layout techniques that allow designs that are more than just standard 12-column based layouts. CSS properties like Grid, Flexbox, object-fit and so on, allow for much better art direction on the web and fully embrace the dynamic nature of this medium.
