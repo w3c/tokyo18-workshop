@@ -2,7 +2,7 @@
 layout: home
 ---
 
-# Workshop Schedule
+# Workshop Agenda
 
 <span class='todo'>BEWARE: THIS IS NOT YET THE FINAL PROGRAM!!</span>
 
