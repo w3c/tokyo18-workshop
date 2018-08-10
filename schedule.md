@@ -4,8 +4,6 @@ layout: home
 
 # Workshop Agenda
 
-<span class='todo'>BEWARE: THIS IS NOT YET THE FINAL PROGRAM!!</span>
-
 (Links to the presentation slides will be added as soon as they become available.)
 
 ## <span style="font-size:80%">Tuesday, September 18</span>
