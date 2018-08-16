@@ -39,6 +39,8 @@ layout: home
     * Vincent Wartelle (ISI) — Making Accessible Content from FXL (15m) ([position paper](submissions/Vincent_Wartelle), slides)
     * Jean-Christophe Burie (Université de La Rochelle) — Semantic Representation for Digital BD/Comics/Manga publication (15m)  ([position paper](submissions/jean_christophe_burie), slides)
     * Shared Q&A on a11y (15m)
+* 18:00 - 20:00: Reception, hosted by APL
+    * Location: Keio University Faculty Club, 1st floor, North Building (The building is marked as #1 on [the map](https://www.w3.org/2018/publayout-workshop/venue.html).)
 
 ## <span style="font-size:80%">Wednesday, September 19</span>
 
