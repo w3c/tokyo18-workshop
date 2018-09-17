@@ -33,7 +33,7 @@ layout: home
     * Shared Q&A (30m)
 * 15:30 - 16:00: Break
 * 16:00 - 17:30 SESSION 4 — Internationalization & Accessibility Concerns (90m)
-    * Richard Ishida (W3C) — The Internationalization Activity at W3C (15m) ([position paper](submissions/Richard_Ishida), slides)
+    * Richard Ishida (W3C) — The Internationalization Activity at W3C (15m) ([position paper](submissions/Richard_Ishida), [slides](https://www.w3.org/International/talks/1809-tokyo/))
     * Bobby Tung — Bopomofo with OpenType (15m) ([position paper](submissions/Bobby_Tung), slides)
     * Shared Q&A on i18n (15m)
     * Vincent Wartelle (ISI) — Making Accessible Content from FXL (15m) ([position paper](submissions/Vincent_Wartelle), slides)
