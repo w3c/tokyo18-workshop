@@ -21,7 +21,7 @@ layout: home
 * 11:00 - 12:30: SESSION 2 — Web-Centric Manga & Comics (90m)
     * Pablo Defendini: Building Comics With HTML, CSS, SVG, and Responsive Design (15m) ([position paper](submissions/Pablo_Defendini), [slides](https://www.dropbox.com/sh/59lnjz59d7z0ypr/AAA_N85zkejOyY6asbD_ZFsja?dl=0))
     * Katsuhiro Ogata (Denno Mavo): Layering and Layout at Authoring Time (15m) ([position paper](submissions/Katshuhiro_Ogata), slides)
-    * Rachel Nabors: Advanced Techniques for Web Based Comics (15m)  ([position paper](submissions/Rachel_Nabors), slides)
+    * Rachel Nabors: Advanced Techniques for Web Based Comics (15m)  ([position paper](submissions/Rachel_Nabors), [slides](slides/rachel-nabors-talk-w3c.pdf))
     * Laurent Le Meur (EDRLab) : Building a Web Engine for Reading Universal Comics (15m) ([position paper](submissions/edrlab), [slides](slides/ReadingEngines.pdf))
     * Shared Q&A (30m)
 * 12:30 - 14:00: Lunch break
