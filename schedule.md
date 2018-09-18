@@ -15,14 +15,14 @@ layout: home
 * 9:15 - 10:30: SESSION 1 — Current Status and Pain Points (75m)
     * Luc Audrain (Hachette Livre) — The diversity of E-publishing worldwide (15m) ([position paper](submissions/Luc_Audrain), [slides](slides/UnfixedFixedLayout20180918.pdf))
     * Shinya Takami (Kadokawa) — Manga & Magazine pain points in Japan (15m) ([position paper](submissions/Shinya_Takami), [slides](slides/simple-fxl-epub180910.pdf))
-    * Samuel Petit (Actiluna) — EDRLab's Work to Unify Digital Graphic Stories (15m)  ([position paper](submissions/edrlab), [slides](UnifyVisualNarrative.pdf))
+    * Samuel Petit (Actiluna) — EDRLab's Work to Unify Digital Graphic Stories (15m)  ([position paper](submissions/edrlab), [slides](slides/UnifyVisualNarrative.pdf))
     * Shared Q&A (30m)
 * 10:30 - 11:00: Break
 * 11:00 - 12:30: SESSION 2 — Web-Centric Manga & Comics (90m)
     * Pablo Defendini: Building Comics With HTML, CSS, SVG, and Responsive Design (15m) ([position paper](submissions/Pablo_Defendini), [slides](https://www.dropbox.com/sh/59lnjz59d7z0ypr/AAA_N85zkejOyY6asbD_ZFsja?dl=0))
     * Katsuhiro Ogata (Denno Mavo): Layering and Layout at Authoring Time (15m) ([position paper](submissions/Katshuhiro_Ogata), slides)
     * Rachel Nabors: Advanced Techniques for Web Based Comics (15m)  ([position paper](submissions/Rachel_Nabors), slides)
-    * Laurent Le Meur (EDRLab) : Building a Web Engine for Reading Universal Comics (15m) ([position paper](submissions/edrlab), slides)
+    * Laurent Le Meur (EDRLab) : Building a Web Engine for Reading Universal Comics (15m) ([position paper](submissions/edrlab), [slides](slides/ReadingEngines.pdf))
     * Shared Q&A (30m)
 * 12:30 - 14:00: Lunch break
 * 14:00 - 15:30: SESSION 3 — Advanced Typography with Web Technologies (90m)
