@@ -26,7 +26,7 @@ layout: home
     * Shared Q&A (30m)
 * 12:30 - 14:00: Lunch break
 * 14:00 - 15:30: SESSION 3 — Advanced Typography with Web Technologies (90m)
-    * Hui Jing Chen — Rich Dynamic Design with Modern CSS (15m)  ([position paper](submissions/Hui_Jing), slides)
+    * Hui Jing Chen — Rich Dynamic Design with Modern CSS (15m)  ([position paper](submissions/Hui_Jing), [slides](https://www.chenhuijing.com/slides/41-w3c-workshop-2018/))
     * Dave Cramer (Hachette Book Group) — Print as a Point on a Continuum of Responsive Designs (15m) ([position paper](submissions/Dave_Cramer), [slides](slides/W3C-Workshop-2018-09-Cramer.pdf))
     * Myles MaxField (Apple) — Updating Best Practices for Ebook Creation (15m) ([position paper](submissions/Myles_Maxfield), slides)
     * Satoko Takahashi (Dai Nippon Printing) — Auto Font Alternating System (15m) ([position paper](submissions/Satoko_Takahashi), [slides](slides/20180918AutoFont_DNP.pdf))
