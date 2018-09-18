@@ -17,7 +17,7 @@ layout: home
     * Shinya Takami (Kadokawa) — Manga & Magazine pain points in Japan (15m) ([position paper](submissions/Shinya_Takami), [slides](slides/simple-fxl-epub180910.pdf))
     * Samuel Petit (Actiluna) — EDRLab's Work to Unify Digital Graphic Stories (15m)  ([position paper](submissions/edrlab), slides)
     * Shared Q&A (30m)
-* 10:00 - 11:00: Break
+* 10:30 - 11:00: Break
 * 11:00 - 12:30: SESSION 2 — Web-Centric Manga & Comics (90m)
     * Pablo Defendini: Building Comics With HTML, CSS, SVG, and Responsive Design (15m) ([position paper](submissions/Pablo_Defendini), slides)
     * Katsuhiro Ogata (Denno Mavo): Layering and Layout at Authoring Time (15m) ([position paper](submissions/Katshuhiro_Ogata), slides)
