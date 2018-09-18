@@ -29,7 +29,7 @@ layout: home
     * Hui Jing Chen — Rich Dynamic Design with Modern CSS (15m)  ([position paper](submissions/Hui_Jing), slides)
     * Dave Cramer (Hachette Book Group) — Print as a Point on a Continuum of Responsive Designs (15m) ([position paper](submissions/Dave_Cramer), slides)
     * Myles MaxField (Apple) — Updating Best Practices for Ebook Creation (15m) ([position paper](submissions/Myles_Maxfield), slides)
-    * Satoko Takahashi (Dai Nippon Printing) — Auto Font Alternating System (15m) ([position paper](submissions/Satoko_Takahashi), slides)
+    * Satoko Takahashi (Dai Nippon Printing) — Auto Font Alternating System (15m) ([position paper](submissions/Satoko_Takahashi), [slides](slides/20180918AutoFont_DNP.pdf))
     * Shared Q&A (30m)
 * 15:30 - 16:00: Break
 * 16:00 - 17:30 SESSION 4 — Internationalization & Accessibility Concerns (90m)
@@ -37,7 +37,7 @@ layout: home
     * Bobby Tung — Bopomofo with OpenType (15m) ([position paper](submissions/Bobby_Tung), slides)
     * Shared Q&A on i18n (15m)
     * Vincent Wartelle (ISI) — Making Accessible Content from FXL (15m) ([position paper](submissions/Vincent_Wartelle), slides)
-    * Jean-Christophe Burie (Université de La Rochelle) — Semantic Representation for Digital BD/Comics/Manga publication (15m)  ([position paper](submissions/jean_christophe_burie), slides)
+    * Jean-Christophe Burie (Université de La Rochelle) — Semantic Representation for Digital BD/Comics/Manga publication (15m)  ([position paper](submissions/jean_christophe_burie), [slides](slides/W3C-Tokyo_JCBURIE.pdf))
     * Shared Q&A on a11y (15m)
 * 18:00 - 20:00: Reception, hosted by APL
     * Location: Keio University Faculty Club, 1st floor, North Building (The building is marked as #1 on [the map](https://www.w3.org/2018/publayout-workshop/venue.html).)
