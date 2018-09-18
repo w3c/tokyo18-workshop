@@ -15,7 +15,7 @@ layout: home
 * 9:15 - 10:30: SESSION 1 — Current Status and Pain Points (75m)
     * Luc Audrain (Hachette Livre) — The diversity of E-publishing worldwide (15m) ([position paper](submissions/Luc_Audrain), [slides](slides/UnfixedFixedLayout20180918.pdf))
     * Shinya Takami (Kadokawa) — Manga & Magazine pain points in Japan (15m) ([position paper](submissions/Shinya_Takami), [slides](slides/simple-fxl-epub180910.pdf))
-    * Samuel Petit (Actiluna) — EDRLab's Work to Unify Digital Graphic Stories (15m)  ([position paper](submissions/edrlab), slides)
+    * Samuel Petit (Actiluna) — EDRLab's Work to Unify Digital Graphic Stories (15m)  ([position paper](submissions/edrlab), [slides](UnifyVisualNarrative.pdf))
     * Shared Q&A (30m)
 * 10:30 - 11:00: Break
 * 11:00 - 12:30: SESSION 2 — Web-Centric Manga & Comics (90m)
