@@ -13,9 +13,9 @@ layout: home
     * Practicalities (5m)
     * Ivan Herman (W3C) - W3C Welcome (10m) ([slides](https://www.w3.org/2018/Talks/Tokyo-IH/Presentation.pdf))
 * 9:15 - 10:30: SESSION 1 — Current Status and Pain Points (75m)
-    * Luc Audrain (Hachette Livre) — The diversity of E-publishing worldwide (15m) ([position paper](submissions/Luc_Audrain), [slides](./slides/UnfixedFixedLayout20180918.pdf))
-    * Shinya Takami (Kadokawa) — Manga & Magazine pain points in Japan (15m) ([position paper](submissions/Shinya_Takami), [slides](slides/simple-fxl-epub180910.pdf))
-    * Samuel Petit (Actiluna) — EDRLab's Work to Unify Digital Graphic Stories (15m)  ([position paper](submissions/edrlab), [slides](slides/UnifyVisualNarrative.pdf))
+    * Luc Audrain (Hachette Livre) — The diversity of E-publishing worldwide (15m) ([position paper](submissions/Luc_Audrain), [slides](https://w3c.github.io/tokyo18-workshop/slides/UnfixedFixedLayout20180918.pdf))
+    * Shinya Takami (Kadokawa) — Manga & Magazine pain points in Japan (15m) ([position paper](submissions/Shinya_Takami), [slides](https://w3c.github.io/tokyo18-workshop/slides/simple-fxl-epub180910.pdf))
+    * Samuel Petit (Actiluna) — EDRLab's Work to Unify Digital Graphic Stories (15m)  ([position paper](submissions/edrlab), [slides](https://w3c.github.io/tokyo18-workshop/slides/UnifyVisualNarrative.pdf))
     * Shared Q&A (30m)
 * 10:30 - 11:00: Break
 * 11:00 - 12:30: SESSION 2 — Web-Centric Manga & Comics (90m)
