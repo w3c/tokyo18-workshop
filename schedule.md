@@ -47,7 +47,7 @@ layout: home
 * 9:00 - 10:30: SESSION 5 — Evolving CSS (90m)
     * Shinyu Murakami (Vivliostyle.org) — Difficulties of Browser-Based Pagination & Print (15m)  ([position paper](submissions/Shinyu_Murakami), [slides](http://bit.ly/w3css201809))
     * Rachel Andrew — New Tools for CSS Layout (15m) ([position paper](submissions/Rachel_Andrew), slides)
-    * Elika Etemad — CSS Design Principles (15m) ([position paper](submissions/Elika_Etemad), slides)
+    * Elika Etemad — CSS Design Principles (15m) ([position paper](submissions/Elika_Etemad), [slides](http://fantasai.inkedblade.net/style/talks/designing-css/#title))
     * Nat McCully (Adobe) — Advanced CJK typography, from DTP to Web Layout (15m) ([position paper](submissions/Nat_McCully), slides)
     * Shared Q&A (30m)
 * 10:30 - 11:00: Break
