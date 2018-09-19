@@ -28,7 +28,7 @@ layout: home
 * 14:00 - 15:30: SESSION 3 — Advanced Typography with Web Technologies (90m)
     * Hui Jing Chen — Rich Dynamic Design with Modern CSS (15m)  ([position paper](submissions/Hui_Jing), [slides](https://www.chenhuijing.com/slides/41-w3c-workshop-2018/))
     * Dave Cramer (Hachette Book Group) — Print as a Point on a Continuum of Responsive Designs (15m) ([position paper](submissions/Dave_Cramer), [slides](https://w3c.github.io/tokyo18-workshop/slides/W3C-Workshop-2018-09-Cramer.pdf))
-    * Myles MaxField (Apple) — Updating Best Practices for Ebook Creation (15m) ([position paper](submissions/Myles_Maxfield), slides)
+    * Myles MaxField (Apple) — Updating Best Practices for Ebook Creation (15m) ([position paper](submissions/Myles_Maxfield), [slides](https://w3c.github.io/tokyo18-workshop/slides/Myles.pdf))
     * Satoko Takahashi (Dai Nippon Printing) — Auto Font Alternating System (15m) ([position paper](submissions/Satoko_Takahashi), [slides](https://w3c.github.io/tokyo18-workshop/slides/20180918AutoFont_DNP.pdf))
     * Shared Q&A (30m)
 * 15:30 - 16:00: Break
@@ -36,7 +36,7 @@ layout: home
     * Richard Ishida (W3C) — The Internationalization Activity at W3C (15m) ([position paper](submissions/Richard_Ishida), [slides](https://www.w3.org/International/talks/1809-tokyo/))
     * Bobby Tung — Bopomofo with OpenType (15m) ([position paper](submissions/Bobby_Tung), [slides](https://w3c.github.io/tokyo18-workshop/slides/bomofo.pdf))
     * Shared Q&A on i18n (15m)
-    * Vincent Wartelle (ISI) — Making Accessible Content from FXL (15m) ([position paper](submissions/Vincent_Wartelle), slides)
+    * Vincent Wartelle (ISI) — Making Accessible Content from FXL (15m) ([position paper](submissions/Vincent_Wartelle), [slides](https://w3c.github.io/tokyo18-workshop/slides/ISIcrunch_PPT_W3C-Tokyo_v4.pdf))
     * Jean-Christophe Burie (Université de La Rochelle) — Semantic Representation for Digital BD/Comics/Manga publication (15m)  ([position paper](submissions/jean_christophe_burie), [slides](https://w3c.github.io/tokyo18-workshop/slides/W3C-Tokyo_JCBURIE.pdf))
     * Shared Q&A on a11y (15m)
 * 18:00 - 20:00: Reception, hosted by APL
