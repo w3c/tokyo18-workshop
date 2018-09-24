@@ -1,0 +1,332 @@
+[
+    {
+        "name": "Ivan Herman",
+        "nick": [
+            "ivan"
+        ]
+    },
+    {
+        "name": "Bobby Tung",
+        "nick": ["Bobbytung", "Bobby", "BT"]
+    },
+    {
+        "name": "Reinaldo Ferraz",
+        "nick": [
+            "ReinaldoFerraz"
+        ]
+    },
+    {
+        "name": "Brian Birtles",
+        "nick": ["birtles"]
+    },
+    {
+        "name": "Gregorio Pellegrino",
+        "nick": [
+            "gpellegrino",
+            "g_pellegrino"
+        ]
+    },
+    {
+        "name": "Richard Ishida",
+        "nick": [
+            "r12a"
+        ]
+    },
+    {
+        "name": "Rachel Andrew",
+        "nick": ["RA"]
+    },
+    {
+        "nick": [
+            "lmeurs",
+            "llemeur",
+            "Laurent",
+            "laurentlemeur",
+            "LLM"
+        ],
+        "name": "Laurent Le Meur"
+    },
+    {
+        "name": "Rachel Nabors",
+        "nick": ["rachelnabors", "RN"]
+    },
+    {
+        "name": "Vincent Wartelle",
+        "nick": ["VW"]
+    },
+    {
+        "name": "Elika Etemad",
+        "nick": [
+            "fantasai"
+        ]
+    },
+    {
+        "name": "Shinya Takami",
+        "nick": ["shinya", "ST"]
+    },
+    {
+        "name": "Toshiaki Koike",
+        "nick": []
+    },
+    {
+        "nick": [
+            "gamou",
+            "jun_gamou",
+            "jun_gamo",
+            "JunGamo"
+        ],
+        "name": "Jun Gamo"
+    },
+    {
+        "name": "Nathaniel McCully",
+        "nick": ["nmccully"]
+    },
+    {
+        "name": "Shinsuke Inamori",
+        "nick": []
+    },
+    {
+        "name": "Nonoka Jinushi",
+        "nick": []
+    },
+    {
+        "nick": [
+            "laudrain",
+            "Luc"
+        ],
+        "name": "Luc Audrain"
+    },
+    {
+        "name": "Takashi Asano",
+        "nick": []
+    },
+    {
+        "name": "Mitsuhiro Nakao",
+        "nick": []
+    },
+    {
+        "name": "Tomoyuki Kudou",
+        "nick": []
+    },
+    {
+        "name": "Hiroshi Tanaka",
+        "nick": []
+    },
+    {
+        "name": "Kawanabe Shu",
+        "nick": []
+    },
+    {
+        "name": "Katsuhiro Ogata",
+        "nick": ["KO", "ogata"]
+    },
+    {
+        "name": "Masataka Ozeki",
+        "nick": []
+    },
+    {
+        "name": "Hiroshi Takase",
+        "nick": []
+    },
+    {
+        "name": "Yasuhiro Kanai",
+        "nick": []
+    },
+    {
+        "name": "Tsuneyoshi Kamae",
+        "nick": ["Kamae"]
+    },
+    {
+        "name": "Masahiro Akutsu",
+        "nick": []
+    },
+    {
+        "nick": [
+            "murata",
+            "makoto"
+        ],
+        "name": "Makoto Murata"
+    },
+    {
+        "name": "Wendy Reid",
+        "nick": [
+            "wendyreid"
+        ]
+    },
+    {
+        "name": "Shinyu Murakami",
+        "nick": ["murakami"]
+    },
+    {
+        "name": "Samuel Petit",
+        "nick": ["SP"]
+    },
+    {
+        "name": "Florian Rivoal",
+        "nick": [
+            "florian"
+        ]
+    },
+    {
+        "name": "Takeda Yohei",
+        "nick": []
+    },
+    {
+        "name": "Florian Dupas",
+        "nick": ["FlorianDupas"]
+    },
+    {
+        "name": "Yu-Wei Chang",
+        "nick": []
+    },
+    {
+        "name": "Tatsuo Kobayashi",
+        "nick": []
+    },
+    {
+        "name": "Yasuo Kida",
+        "nick": ["kida"]
+    },
+    {
+        "name": "Daihei Shiohama",
+        "nick": [
+            "Daihei"
+        ]
+    },
+    {
+        "name": "Junichi Yoshii",
+        "nick": [
+            "jyoshii",
+            "yoshii"
+        ]
+    },
+    {
+        "name": "Toshi Kobayashi",
+        "nick": []
+    },
+    {
+        "name": "Myles Maxfield",
+        "nick": ["myles", "MM"]
+    },
+    {
+        "name": "J. Alan Bird",
+        "nick": [
+            "abird"
+        ]
+    },
+    {
+        "name": "Jean-Christophe Burie",
+        "nick": ["SC_Burie", "JC"]
+    },
+    {
+        "name": "Koji Ishii",
+        "nick": ["koji"]
+    },
+    {
+        "name": "Pablo Defendini",
+        "nick": ["PD"]
+    },
+    {
+        "name": "Wen Hsi Yeh",
+        "nick": []
+    },
+    {
+        "name": "Satoko Takahashi",
+        "nick": []
+    },
+    {
+        "name": "Dave Cramer",
+        "nick": [
+            "dauwhe"
+        ]
+    },
+    {
+        "name": "Theresa O’Connor",
+        "nick": []
+    },
+    {
+        "name": "Hyunwoo Nam",
+        "nick": ["Hyunwoo"]
+    },
+    {
+        "name": "Marius Bredsdorff",
+        "nick": []
+    },
+    {
+        "name": "Stanley Chien",
+        "nick": []
+    },
+    {
+        "name": "Ming Shing Kuo",
+        "nick": []
+    },
+    {
+        "name": "Hiroki Kamata",
+        "nick": ["jkamata"]
+    },
+    {
+        "name": "Junko Kamata",
+        "nick": [
+            "junko_kamata",
+            "jkamata"
+        ]
+    },
+    {
+        "name": "Hitoshi Takahashi",
+        "nick": []
+    },
+    {
+        "name": "Aiko Miyada",
+        "nick": []
+    },
+    {
+        "name": "Yukio Tomikura",
+        "nick": []
+    },
+    {
+        "name": "Chenchung Chien",
+        "nick": []
+    },
+    {
+        "name": "Amira Zegrour",
+        "nick": []
+    },
+    {
+        "name": "Naomi Yoshizawa",
+        "nick": ["naomi"]
+    },
+    {
+        "name": "Kenan Hasstedt",
+        "nick": []
+    },
+    {
+        "name": "Taro Yamamoto",
+        "nick": ["TY"]
+    },
+    {
+        "name": "Kazuyuki Ashimura",
+        "nick": [
+            "kaz"
+        ]
+    },
+    {
+        "name": "Masaki Itou",
+        "nick": []
+    },
+    {
+        "name": "Hideo Matsunobu",
+        "nick": []
+    },
+    {
+        "name": "Atsushi Shimono",
+        "nick": []
+    },
+    {
+        "name": "Yuichi Kinoshita",
+        "nick": []
+    },
+    {
+        "name": "Hui Jing Chen",
+        "nick": ["HJ", "huijing"]
+    }
+]
