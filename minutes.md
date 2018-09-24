@@ -2028,7 +2028,7 @@ See also the [Agenda](https://www.w3.org/publishing/events/tokyo18-workshop/sche
 **Ivan Herman:** Yes, Chris is that group's team contact, and Vlad is the co-chair  
 … but the scope of that group is different  
 
-**Bobby Tung:** I think it is a good time to get people together  
+**Bobby Tung:** There is a font conference (ATypI) in Tokyo in 2019 (see [ATyPI](https://www.atypi.org)); I think it is a good time to get people together  
 
 **Florian Rivoal:** Short repeat of what said yesterday, but as talking about what to do next, want to remind people of r12a's invitation to join the JLTF and other Internationalization Activities  
 
