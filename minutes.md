@@ -2054,7 +2054,7 @@ See also the [Agenda](https://www.w3.org/publishing/events/tokyo18-workshop/sche
 
 **Dave Cramer:** How do we organize and coordinate these groups, and make sure information flows form one to the other?  
 
-> *Makoto Murata:* ISO/IEC JTC1/SC29
+> *Makoto Murata:* ISO/IEC JTC1/SC29 is the committee responsible for maintaining the OpenType specification. Its secretariat is IPSJ/ITSCJ (Information Processing Society of Japan/Information Technology Standards Commission of Japan). I called them today, they are willing to have a relationship with W3C.
 
 **Ivan Herman:** Very good question, I don't have a direct answer. It's a problem at the W3C level  
 … All the groups directly on publications or in the CGs, have a one-stop place where there is a one-stop place with a good set of references.  
