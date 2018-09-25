@@ -560,7 +560,7 @@ See also the [Agenda](https://www.w3.org/publishing/events/tokyo18-workshop/sche
 … You don't have the same problem as exporting only HTML+CSS+JS  
 … can export just JSON, or export JSOn + HTMl + CSS + JS  
 … We have been focusing on the most useful effects that we find in the industry  
-… Want to standardize transitions, scroll, parallax, what ?? had been talking about earlier  
+… Want to standardize transitions, scroll, parallax, what Samuel had been talking about earlier  
 … First, the model  
 … Visual narrative: comics, manga, poetry, everything visual  
 … It is made of pages, a step in the reading experience  
@@ -1345,7 +1345,7 @@ See also the [Agenda](https://www.w3.org/publishing/events/tokyo18-workshop/sche
 
 > *ivan>Se:* [slides online](https://w3c.github.io/tokyo18-workshop/slides/ISIcrunch_PPT_W3C-Tokyo_v4.pdf)
 
-**Vincent Wartelle:** I was asked by ? to talk about the new project, artificial intelligence in publishing process  
+**Vincent Wartelle:** I was asked by Bill McCoy to talk about the new project, artificial intelligence in publishing process  
 … We'll talk about the ebook communication. We are fully committed to ebooks, creating epubs for education publishers  
 … Production of ebook community  
 … We'll see challenges and goals, why we chose AI  
@@ -1427,7 +1427,7 @@ See also the [Agenda](https://www.w3.org/publishing/events/tokyo18-workshop/sche
 … So the team now, project started in July and team includes Data scientist which come from different background  
 … specialist of data learning  
 … We've made some integration of research laboratory  
-… we work with ??? which is the atomic energy research center in France  
+… we work with CEA which is the atomic energy research center in France  
 … and keen on data visualization  
 … We have ? which work on data analysis  
 … And of course team of developers, which build the whole system to create a future  
@@ -1564,7 +1564,7 @@ See also the [Agenda](https://www.w3.org/publishing/events/tokyo18-workshop/sche
 
 > *Elika Etemad:* ?: Need both of what we do, recognize what's happening and describe it to adapt for rendering
 
-> *Elika Etemad:* ?????: Very quick comment about navigation, just to say that the description of CML is have a very ? many many information in the CML, more than the basic stuff we have in the actual guided navigation
+**Samuel Petit:** Very quick comment about navigation, just to say that the description of CML is have a very ? many many information in the CML, more than the basic stuff we have in the actual guided navigation
 
 ### 8. Evolving CSS
 {: #section8}
