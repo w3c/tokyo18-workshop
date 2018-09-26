@@ -627,9 +627,9 @@ See also the [Agenda](https://www.w3.org/publishing/events/tokyo18-workshop/sche
 #### 4.5. Questions, Discussions
 {: #section4-5}
 
-**Taro Yamamoto:** Seems to pub emphasis on interactivity on the Web. Reminds me of long tradition of ???  
-… Do you think the reason is future comics have anything to do with those traditions in the past?  
-… If so, what do you think we can learn from the past?  
+**Taro Yamamoto:** Rachel seems to put emphasis on interactivity on the Web. Reminds me of long tradition of interactive fiction (IF or text adventures).  
+… Do you think the comics in future, which you envision,  have anything to do with those traditions in the past?  
+… If so, what do you think we can learn from the past experience?  
 
 **Pablo Defendini:** interactive fiction is having a moment right now  
 … we talk a lot about tech and tools  
@@ -994,29 +994,27 @@ See also the [Agenda](https://www.w3.org/publishing/events/tokyo18-workshop/sche
 
 **Kazuyuki Ashimura:** (in Japanese) there is a standard to express mixed feelings (e.g. 20% surprised, 80% happy), which could be used as input to the dynamic font system  
 
-**Taro Yamamoto:** I'm very interested in this area of emotion expression and font substitution  
-… But this type of technology implies, the mapping from one emotive expression such as angry anger or something to some font style  
+**Taro Yamamoto:** I'm very interested in this area of  font substitution related to emotive expressions  
+… But this type of technology implies a mapping from one emotive expression such as "angry" or "anger" or something to some font style  
 … This is one to one mapping  
 … On the side of the recipient, according to the mapping selected by the system, the font style is chosen and displayed on recipient side  
-… But in order for this to be successful, the mapping itself should be based on common set of mapping relationships  
+… But in order for this to be successful, the mapping itself should be based on a common set of shared semantics mappings  
 … Should be commonly understood  
 … The context of the mapping and semantic relationships should need to be commonly understood on both sides consistently  
-… otherwise emotive intent will not be correctly understood  
-… For example, you say I wanted to have sushi.  
-… The semantic is mapping to a style or font  
-… But I think maybe, he wants to have sushi now  
-… But what on the recipient side now, from notion of sushi might be different depending on place you live  
-… Sentence in Kansai, you may imagine a kansai style sushi  
-… but recipient maybe lives in Tokyo, and imagines Tokyo style sushi  
-… So it is necessary for us to be able to evaluate faithfully, to what degree of fidelity, the intended semantic of a context can be conveyed from the sender to the recipient  
-… I think there will be many vague and difficult things, issues included in this kind of technology  
-… About this kind of difficulty I have now, I can imagine what do you think about this.  
+… otherwise emotive intent will not be correctly conveyed in the communication.  
+… For example, you say "I wanted to have sushi".  
+… The semantic may be mapped to a style or font  
+… But it is possible that the receiver of the message might envision a different thing from that intended by the sender, depending on the places where the sender and receiver are.  
+… Because the image of a sushi that someone in Kansai envisions and that which is envisioned by someone in Kanto can differ  
+… So I wonder if it is necessary for us to be able to evaluate faithfully, to what degree of fidelity, the intended semantic of a context can be conveyed from the sender to the recipient, if some ambiguity can be introduced in the process of communication.  
+… I believe there are difficult issues in discussing this kind of question, and it is possible that we cannot be free from vagueness in the discussion.  
+… What do you think about these things?
 
 **Satoko Takahasi:** Difficult to express... of course it's true that when sender sees something, and what other person gets might be different  
 … After awhile sender might feel something else  
 … Kind of experiment, throw a stone and see what happens. What kind of help to express this kind of emotion  
 
-**Taro Yamamoto:** Too difficult to answer everything here but we should continue discussing it  
+**Taro Yamamoto:** Too difficult to answer everything here but we should continue discussing it.  
 
 **Ivan Herman:** I want to come back to the point Florian made at the beginning, about CSS-related things  
 … will play devil's advocate  
