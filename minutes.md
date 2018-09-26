@@ -13,7 +13,7 @@ See also the [Agenda](https://www.w3.org/publishing/events/tokyo18-workshop/sche
 
 ## Attendees
 {: .no_toc}
-**Present:** Ivan Herman, Bobby Tung, Reinaldo Ferraz, Brian Birtles, Richard Ishida, Rachel Andrew, Laurent Le Meur, Rachel Nabors, Vincent Wartelle, Elika Etemad, Shinya Takami, Toshiaki Koike, Jun Gamo, Nathaniel McCully, Shinsuke Inamori, Luc Audrain, Mitsuhiro Nakao, Tomoyuki Kudou, Hiroshi Tanaka, Katsuhiro Ogata, Hiroshi Takase, Yasuhiro Kanai, Tsuneyoshi Kamae, Makoto Murata, Wendy Reid, Shinyu Murakami, Samuel Petit, Florian Rivoal, Florian Dupas, Yu-Wei Chang, Tatsuo Kobayashi, Yasuo Kida, Daihei Shiohama, Junichi Yoshii, Myles Maxfield, Jean-Christophe Burie, Koji Ishii, Pablo Defendini, Wen Hsi Yeh, Satoko Takahashi, Dave Cramer, Theresa O’Connor, Hyunwoo Nam, Marius Bredsdorff, Stanley Chien, Ming Shing Kuo, Hiroki Kamata, Junko Kamata, Yukio Tomikura, Chenchung Chien, Taro Yamamoto, Kazuyuki Ashimura, Masaki Itou, Atsushi Shimono, Yuichi Kinoshita, Naomi Yoshizawa, Mike Smith, Hui Jing Chen
+**Present:** Ivan Herman, Bobby Tung, Reinaldo Ferraz, Brian Birtles, Richard Ishida, Rachel Andrew, Laurent Le Meur, Rachel Nabors, Vincent Wartelle, Elika Etemad, Shinya Takami, Toshiaki Koike, Jun Gamo, Nat McCully, Shinsuke Inamori, Luc Audrain, Mitsuhiro Nakao, Tomoyuki Kudou, Hiroshi Tanaka, Katsuhiro Ogata, Hiroshi Takase, Yasuhiro Kanai, Tsuneyoshi Kamae, Makoto Murata, Wendy Reid, Shinyu Murakami, Samuel Petit, Florian Rivoal, Florian Dupas, Yu-Wei Chang, Tatsuo Kobayashi, Yasuo Kida, Daihei Shiohama, Junichi Yoshii, Myles Maxfield, Jean-Christophe Burie, Koji Ishii, Pablo Defendini, Wen Hsi Yeh, Satoko Takahashi, Dave Cramer, Theresa O’Connor, Hyunwoo Nam, Marius Bredsdorff, Stanley Chien, Ming Shing Kuo, Hiroki Kamata, Junko Kamata, Yukio Tomikura, Chenchung Chien, Taro Yamamoto, Kazuyuki Ashimura, Masaki Itou, Atsushi Shimono, Yuichi Kinoshita, Naomi Yoshizawa, Mike Smith, Hui Jing Chen
 
 **Chair:** Luc Audrain, Florian Rivoal, Makoto Murata
 
@@ -166,7 +166,7 @@ See also the [Agenda](https://www.w3.org/publishing/events/tokyo18-workshop/sche
 … Here's an example, it is scrolling, but if you look closely some animated content, some parallax effects.  
 … Very small animation, very small effects  
 
-> *Elika Etemad:* (SP scrolls through the comic, e.g. fish slightly move)
+> *Elika Etemad:* (Samuel Petit scrolls through the comic, e.g. fish slightly move)
 
 **Samuel Petit:** We're finished with intra-page navigation, now inter-page navigation  
 … Classical use cases, well, today the epub reading app has a transition. You turn the page, and you have an effect that is not decided by the author.  
@@ -671,7 +671,7 @@ See also the [Agenda](https://www.w3.org/publishing/events/tokyo18-workshop/sche
 … the bridge between visual designer and front-end coder  
 … we're starting to see tools  
 
-**Nathaniel McCully:** I have  question about the tooling  
+**Nat McCully:** I have  question about the tooling  
 … Rachel's point on open-source tooling is a good one  
 … but there's problems maintaining tools, especially when the market is small  
 … you need a community  
@@ -1761,7 +1761,7 @@ See also the [Agenda](https://www.w3.org/publishing/events/tokyo18-workshop/sche
 #### 8.4. Advanced CJK typography, from DTP to Web Layout (Nate McCully)
 {: #section8-4}
 
-**Nathaniel McCully:** I work for Adobe Systems  
+**Nat McCully:** I work for Adobe Systems  
 … I'm going to talk about advanced CJK typography  
 … and give some background  
 … if your goal for web and css rendering is accessibility and legibility you might not be interested in what I'm saying, because we've accomplished that  
@@ -1792,12 +1792,12 @@ See also the [Agenda](https://www.w3.org/publishing/events/tokyo18-workshop/sche
 
 > *Elika Etemad:* [http://sosus.co.jp/](http://sosus.co.jp/)
 
-**Nathaniel McCully:** so we can learn about what the web can do  
+**Nat McCully:** so we can learn about what the web can do  
 … in the 90s, DTP still lacked critical features  
 
 > *Elika Etemad:* [https://tadaya.net/](https://tadaya.net/)
 
-**Nathaniel McCully:** the fonts had problems  
+**Nat McCully:** the fonts had problems  
 … everything used roman baselines  
 … origin was in the wrong place  
 … Grid layout in DTP  
@@ -1868,7 +1868,7 @@ See also the [Agenda](https://www.w3.org/publishing/events/tokyo18-workshop/sche
 … and then it will adapt automatically  
 … is this something we could figure out?  
 
-**Nathaniel McCully:** I would love for that to happen  
+**Nat McCully:** I would love for that to happen  
 … but designers who care about design intent in print often don't understand fluid design  
 … we need to help the design community understand that dynamically changing design needs tools like the grid inspector  
 … the coding of each css feature is still unreachable to many people  
@@ -1966,7 +1966,7 @@ See also the [Agenda](https://www.w3.org/publishing/events/tokyo18-workshop/sche
 
 **Ivan Herman:** Inviting to join the *virtual* table.  
 
-**Nathaniel McCully:** I was inspired to see the creativity in the Web space, in the media space. It's exciting to see what's possible.  
+**Nat McCully:** I was inspired to see the creativity in the Web space, in the media space. It's exciting to see what's possible.  
 … I think proofs of concept, small groups of people trying to achieve something, and then getting the word out will draw people to it.  
 … Way to convince people, friends, publishing industry to join and participate.  
 … That kind of draw, plus stick of if you don't adapt you die, is a good motivation.  
@@ -1974,7 +1974,7 @@ See also the [Agenda](https://www.w3.org/publishing/events/tokyo18-workshop/sche
 **Luc Audrain:** I'm afraid such sophisticated books are a very small portion of the industry.  
 … It's a very big use case for us to be able to have some transformation from the indesign page to something that is CSS implementation.  
 
-**Nathaniel McCully:** You come from an industry that is one of the most conservative that I have ever seen. very hard to convince anyone to move anywhere.  
+**Nat McCully:** You come from an industry that is one of the most conservative that I have ever seen. very hard to convince anyone to move anywhere.  
 … But competition is a way to encourage innovation.  
 … Define yourself as leaders, as thought leaders.  
 
@@ -2018,7 +2018,7 @@ See also the [Agenda](https://www.w3.org/publishing/events/tokyo18-workshop/sche
 
 **Elika Etemad:** also Chris Lilley  
 
-**Nathaniel McCully:** CC me  
+**Nat McCully:** CC me  
 
 **Florian Rivoal:** I'm happy to be in the loop too  
 
