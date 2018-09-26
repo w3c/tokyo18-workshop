@@ -394,16 +394,16 @@ See also the [Agenda](https://www.w3.org/publishing/events/tokyo18-workshop/sche
 #### 4.2. Layering and Layout at Authoring Time (Katsuhiro Ogata)
 {: #section4-2}
 
-> *Rich:* See [slides online](https://w3c.github.io/tokyo18-workshop/slides/ogata.pdf)
+> *Ivan Herman:* See [transcript](./submissions/Ogata_transcript) and [slides online](https://w3c.github.io/tokyo18-workshop/slides/ogata.pdf)
 
 **Katsuhiro Ogata:** I am trainer in Pokémon Go  
-… Anyway, smaller company, agent company that also edits manga planning  
+… Anyway, I run a smaller company, agent company that also edits manga planning  
 … eBook initiative in Japan, Torico, Naver are clients  
-… Today I will tell you what I have [?]  
+… Today I will tell you experiences with manga formats  
 … I did questionnaire on Twitter. How are manga delivered in japan?  
 … 23% images with rasterized text  
 … 20% balloons without text, and text files  
-… 57% compound format (psd, clip, mdp, etc.) containing ...  
+… 57% compound format (psd, clip, mdp, etc.) containing both images and text  
 … What are the advantages and disadvantages of these three types of data?  
 … Image containing rasterized text (jpg, png, etc)  
 … Advantage: can be published immediately  
@@ -1758,7 +1758,7 @@ See also the [Agenda](https://www.w3.org/publishing/events/tokyo18-workshop/sche
 … the initial grid layout had overlap problems, but we figured out something different which met CSS's design criteria  
 … one web for all.  
 
-#### 8.4. Advanced CJK typography, from DTP to Web Layout (Nate McCully)
+#### 8.4. Advanced CJK typography, from DTP to Web Layout (Nat McCully)
 {: #section8-4}
 
 **Nat McCully:** I work for Adobe Systems  
