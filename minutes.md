@@ -2073,7 +2073,7 @@ See also the [Agenda](https://www.w3.org/publishing/events/tokyo18-workshop/sche
 
 **Makoto Murata:** APL isn't interested  
 
-**Laurent Le Meur:** XML is not very popular at the moment  
+**Laurent Le Meur:** <span id="xml-not-popular">XML is not very popular</span> at the moment  
 … so I think it would have to be out of W3C  
 
 **Ivan Herman:** I don't think that's true. If there is a community, we can have a group. XML is gone on the front end, but there's nothing stopping it in the backend, interchange, etc  
