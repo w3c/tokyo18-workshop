@@ -18,6 +18,7 @@ See also the [Agenda](https://www.w3.org/publishing/events/tokyo18-workshop/sche
 **Chair:** Luc Audrain, Florian Rivoal, Makoto Murata
 
 **Scribe(s):** Kazuyuki Ashimura, Dave Cramer, Elika Etemad, Florian Rivoal
+{: #scribes}
 
 ## Content:
 {: .no_toc}
