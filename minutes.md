@@ -16,9 +16,9 @@ See also the [Agenda](https://www.w3.org/publishing/events/tokyo18-workshop/sche
 **Present:** Ivan Herman, Bobby Tung, Reinaldo Ferraz, Brian Birtles, Richard Ishida, Rachel Andrew, Laurent Le Meur, Rachel Nabors, Vincent Wartelle, Elika Etemad, Shinya Takami, Toshiaki Koike, Jun Gamo, Nat McCully, Shinsuke Inamori, Luc Audrain, Mitsuhiro Nakao, Tomoyuki Kudou, Hiroshi Tanaka, Katsuhiro Ogata, Hiroshi Takase, Yasuhiro Kanai, Tsuneyoshi Kamae, Makoto Murata, Wendy Reid, Shinyu Murakami, Samuel Petit, Florian Rivoal, Florian Dupas, Yu-Wei Chang, Tatsuo Kobayashi, Yasuo Kida, Daihei Shiohama, Junichi Yoshii, Myles Maxfield, Jean-Christophe Burie, Koji Ishii, Pablo Defendini, Wen Hsi Yeh, Satoko Takahashi, Dave Cramer, Theresa O’Connor, Hyunwoo Nam, Marius Bredsdorff, Stanley Chien, Ming Shing Kuo, Hiroki Kamata, Junko Kamata, Yukio Tomikura, Chenchung Chien, Taro Yamamoto, Kazuyuki Ashimura, Masaki Itou, Atsushi Shimono, Yuichi Kinoshita, Naomi Yoshizawa, Mike Smith, Hui Jing Chen
 {: #attendees}
 
-**Chair:** Luc Audrain, Florian Rivoal, Makoto Murata
+**Chairs:** Luc Audrain, Florian Rivoal, Makoto Murata
 
-**Scribe(s):** Kazuyuki Ashimura, Dave Cramer, Elika Etemad, Florian Rivoal
+**Scribes:** Kazuyuki Ashimura, Dave Cramer, Elika Etemad, Florian Rivoal
 {: #scribes}
 
 ## Content:
