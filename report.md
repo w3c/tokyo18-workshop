@@ -6,7 +6,7 @@ layout: home
 
 (See also the [minutes](https://www.w3.org/2018/publayout-workshop/minutes.html) of the Workshop, made possible by our [scribes](https://www.w3.org/2018/publayout-workshop/minutes.html#scribes).)
 
-<figure><img width="66%" src="illustration.png" title="Extract of the emakimono 'Tale of the Mice', Edo Period, Japan. Tokyo National Museum (photo by Ivan Herman)."/><figcaption style="font-size:85%"><i>Extract of the emakimono “Tale of the Mice”, Edo Period, Japan. Tokyo National Museum (photo by Ivan Herman).</i></figcaption></figure>
+<figure><img width="64%" src="illustration.png" title="Extract of the emakimono 'Tale of the Mice', Edo Period, Japan. Tokyo National Museum (photo by Ivan Herman)."/><figcaption style="font-size:85%"><i>Extract of the emakimono “Tale of the Mice”, Edo Period, Japan. Tokyo National Museum (photo by Ivan Herman).</i></figcaption></figure>
 
 Although the Workshop had a general scope on digital publication layout, the emphasis was on what is sometimes called “sequential art”, i.e., comics, mangas, bandes dessinées, etc. Different in style and narrative from one country to the other, these publications are all characterized by a rich visual content (mostly images deployed in specific order) providing a graphic storytelling. Publications of sequential art, including their digital versions, have a significant market in countries like France, Korea, Japan, Belgium, or the United States. See the overview given by [Luc Audrain](https://w3c.github.io/tokyo18-workshop/slides/UnfixedFixedLayout20180918.pdf) for some further details.
 
